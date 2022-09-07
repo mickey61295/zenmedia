@@ -56,8 +56,8 @@ const Auth = () => {
         <img src={Logo} alt="" />
 
         <div className="Webname">
-          <h1>ZKC Media</h1>
-          <h6>Explore the ideas throughout the world</h6>
+          <h1>ZEN Media</h1>
+          <h6>Built to showcase skills</h6>
         </div>
       </div>
 
